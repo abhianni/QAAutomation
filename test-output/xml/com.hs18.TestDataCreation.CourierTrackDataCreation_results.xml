@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Courier"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="289.069">
+  <properties />
+  
+  
+            <testcase name="NDR" time="0.010" classname="com.hs18.TestDataCreation.CourierTrackDataCreation" />
+                <testcase name="forwardCourier" time="289.059" classname="com.hs18.TestDataCreation.CourierTrackDataCreation" />
+      
+</testsuite>
